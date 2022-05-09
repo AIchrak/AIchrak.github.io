@@ -5,11 +5,9 @@ main {
 	background-image: url("fond.jpg");
 	color: #9966ff;
 }
-
 .icons-social a {
 	color: #9966ff;
 }
-
 .icons-social a svg path{
 	fill: #9966ff;
 }

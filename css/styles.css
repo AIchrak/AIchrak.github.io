@@ -54,7 +54,14 @@ main > .tagline {
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
-
+main > img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	position: relative;
+	align-self: center;
+	margin-bottom: 20px;
+}
 .icons-social i {
 	padding: 10px;
 }
